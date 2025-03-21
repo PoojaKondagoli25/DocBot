@@ -1,0 +1,10 @@
+Create Virtual environment
+    python -m venv .\.venv\docbot
+
+Activate virtual environment
+    .\.venv\docbot\Scripts\activate
+
+Install Requirements
+    pip install -r .\requirements.txt
+
+Update your OpenAI Key in config.ini
